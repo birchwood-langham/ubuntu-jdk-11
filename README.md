@@ -1,4 +1,4 @@
-# Ubuntu Base Docker image with Open JDK 1.8
+# Ubuntu Base Docker image with Open JDK 11
 
 This docker image builds upon the Ubuntu-base image by adding Open JDK 11.
 
